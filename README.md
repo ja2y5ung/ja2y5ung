@@ -1,8 +1,8 @@
 ### 🐢Hello! This is Jaeyoung Moon
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jupyternotebook-f58637?style=flat-square&logo=Jupyter&logoColor=white"/>
+<center><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Jupyternotebook-f58637?style=flat-square&logo=Jupyter&logoColor=white"/></center>
 
 ![ja2y5ung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja2y5ung&show_icons=true&theme=tokyonight)
 
