@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Jupyternotebook-f58637?style=flat-square&logo=Jupyter&logoColor=white"/>
 <!-- </div> -->
 
-![ja2y5ung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja2y5ung&show_icons=true&theme=tokyonight)
+<!-- ![ja2y5ung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ja2y5ung&show_icons=true&theme=tokyonight) -->
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mjy0992)](https://solved.ac/mjy0992)
 
