@@ -12,10 +12,11 @@
 ---
 
 
+
 ### Inform
 
 - Mail : <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
-- github : <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+- [github : <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>](https://github.com/ja2y5ung)
 - phone : 010-4840-5005
 - military service status :  fulfilled
 
