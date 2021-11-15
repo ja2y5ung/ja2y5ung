@@ -1,4 +1,4 @@
-### 🐢Hello! This is Jaeyoung Moon⚡
+### ⚡Hello! This is Jaeyoung Moon⚡
 
 ---
 
